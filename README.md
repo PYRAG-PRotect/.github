@@ -1,4 +1,4 @@
-# PRotect: AI-Powered Pull Request Security Review  
+# PRotect: A Pull Request Security Reviewer
 
 PRotect is an automated security review system for GitHub Pull Requests (PRs). It consists of:  
 1. **PRotect Chrome Extension** – A browser extension that analyzes PRs for security vulnerabilities, highlighting issues directly in the UI.  
